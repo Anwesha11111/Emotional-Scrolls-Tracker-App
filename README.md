@@ -14,7 +14,7 @@ Daily/Weekly Trends: Tree-ring timeline of emotional health
 Privacy-First: 100% local storage, no data leaves your browser
 
 Your Nature Theme: Forest green gradients per emotion
-<div align="center"><img src="emotional-scroll-tracker app/paragraph-divider-15Copy.png" width="80%"/> </div>
+<div align="center"><img src="emotional-scroll-tracker app/paragraph-divider-15-Copy.png" width="80%"/> </div>
 🛠️ Tech Stack
 Category	Tools
 Extension	Chrome/Firefox Manifest v3
@@ -50,7 +50,7 @@ Hyped	42%	-15%	TikTok (68%), YT Shorts (32%)
 Numb	28%	-30%	Instagram Reels (89%)
 Calm	18%	+22%	Educational channels
 Anxious	12%	-18%	News clips
-<div align="center"><img src="emotional-scroll-tracker app/paragraph-divider-15.png" width="80%"/> </div>
+<div align="center"><img src="emotional-scroll-tracker app/paragraph-divider-15-Copy.png" width="80%"/> </div>
 🤝 Contributing
 text
 Good First Issues:
@@ -61,5 +61,5 @@ Good First Issues:
 MIT © Anwesha 2025
 
 <div align="center"> **Made for focused minds in Bengaluru 🌿 #EmotionalDiet #ContentHealth** </div>
-<div align="center"><img src="emotional-scroll-tracker app/paragraph-divider-15.png" width="80%"/> </div>
+<div align="center"><img src="emotional-scroll-tracker app/paragraph-divider-15-Copy.png" width="80%"/> </div>
 <div align="center">End</div>
