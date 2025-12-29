@@ -50,7 +50,7 @@ Hyped	42%	-15%	TikTok (68%), YT Shorts (32%)
 Numb	28%	-30%	Instagram Reels (89%)
 Calm	18%	+22%	Educational channels
 Anxious	12%	-18%	News clips
-<div align="center"><img src="emotional-scroll-tracker app/paragraph-divider-15 - Copy.png.png" width="80%"/> </div>
+<div align="center"><img src="emotional-scroll-tracker app/paragraph-divider-15 - Copy.png" width="80%"/> </div>
 🤝 Contributing
 text
 Good First Issues:
@@ -61,5 +61,5 @@ Good First Issues:
 MIT © Anwesha 2025
 
 <div align="center"> **Made for focused minds in Bengaluru 🌿 #EmotionalDiet #ContentHealth** </div>
-<div align="center"><img src="emotional-scroll-tracker app/paragraph-divider-15 - Copy.png.png" width="80%"/> </div>
+<div align="center"><img src="emotional-scroll-tracker app/paragraph-divider-15 - Copy.png" width="80%"/> </div>
 <div align="center">End</div>
