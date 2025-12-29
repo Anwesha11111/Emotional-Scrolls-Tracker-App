@@ -1,7 +1,7 @@
 # Emotional-Scrolls-Tracker-App
 Track your emotional diet from social media shorts! Browser extension that tags YouTube Shorts, TikTok, Reels with emotions (calm, hyped, anxious, numb) and reveals how your content consumption affects focus.
 
-<div align="center"> <img src="screenshots/accent-emotion-gradient.png" width="80%" alt="🌿 Emotional Gradient"/> </div>
+<div align="center"> <img src="emotional-scroll-tracker-app/dashboard1.png" width="80%" alt="🌿 Emotional Gradient"/> </div>
 ✨ Features
 Real-time Emotion Tagging: Auto-classifies shorts/videos by title + description
 
@@ -31,10 +31,10 @@ npm run dev  # Web dashboard
 # Load extension/ in chrome://extensions/
 📱 Screenshots
 Emotional Diet	Focus Impact	Trends
-<div align="center"> <img src="dashboard1.png" width="80%"/> 
-  <img src="dashboard2.png" width="80%"/> 
-  <img src="dashboard3.png" width="80%"/> 
-  <img src="dashboard4.png" width="80%"/> 
+<div align="center"> <img src="emotional-scroll-tracker-app/dashboard1.png" width="80%"/> 
+  <img src="emotional-scroll-tracker-app/dashboard2.png" width="80%"/> 
+  <img src="emotional-scroll-tracker-app/dashboard3.png" width="80%"/> 
+  <img src="emotional-scroll-tracker-app/dashboard4.png" width="80%"/> 
   
 </div>
 
