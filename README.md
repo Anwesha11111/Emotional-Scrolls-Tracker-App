@@ -14,7 +14,7 @@ Daily/Weekly Trends: Tree-ring timeline of emotional health
 Privacy-First: 100% local storage, no data leaves your browser
 
 Your Nature Theme: Forest green gradients per emotion
-<div align="center"><img src="emotional-scroll-tracker app/paragraph-divider-15 Copy.png" width="80%"/> </div>
+<div align="center"><img src="emotional-scroll-tracker app/paragraph-divider-15Copy.png" width="80%"/> </div>
 🛠️ Tech Stack
 Category	Tools
 Extension	Chrome/Firefox Manifest v3
